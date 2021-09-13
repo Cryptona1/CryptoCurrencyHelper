@@ -1,0 +1,29 @@
+{
+  "lastUpdate": 1631558429,
+  "version": 1.0,
+  "availableAssets": {
+    "exchange": [
+      "Binance",
+      "Coinbase",
+      "Huobi Global",
+      "FTX",
+      "KuCoin",
+      "Kraken",
+      "Bitfinex",
+      "Bithumb",
+      "Bitstamp",
+      "Poloniex",
+      "Crypto.com",
+      "Bybit",
+      "Tokocrypto",
+      "eToroX"
+      ],
+      "wallet": [
+        "Ledger",
+        "Trust Wallet",
+        "Daedalus",
+        "MetaMask",
+        "Ronin"
+      ]
+  }
+}
